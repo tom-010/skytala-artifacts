@@ -1,0 +1,188 @@
+- id: nexus-flow
+  title: NexusFlow
+  tagline: Orchestrate your work.
+  description: A project management tool designed for high-velocity engineering teams. NexusFlow integrates directly with your version control to provide real-time updates on task progress without manual entry.
+  date: '2023-11-15'
+  link: '#'
+  category: Productivity
+  heroImage: https://picsum.photos/seed/nexus/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/nexus1/800/600
+    - https://picsum.photos/seed/nexus2/800/600
+    - https://picsum.photos/seed/nexus3/800/600
+  attributes:
+    - label: Version
+      value: 2.4.0
+    - label: Platform
+      value: Web, iOS, Android
+    - label: Integrations
+      value: GitHub, GitLab, Slack
+
+- id: code-stream
+  title: CodeStream
+  tagline: Code together, anywhere.
+  description: Real-time collaborative code editor with built-in voice chat and low-latency cursor tracking. Perfect for pair programming sessions across continents.
+  date: '2024-01-20'
+  link: '#'
+  category: Developer Tools
+  heroImage: https://picsum.photos/seed/codestream/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/cs1/800/600
+    - https://picsum.photos/seed/cs2/800/600
+  attributes:
+    - label: Latency
+      value: < 50ms
+    - label: Languages
+      value: JS, TS, Python, Rust
+    - label: Security
+      value: E2E Encryption
+
+- id: pixel-perfect
+  title: PixelPerfect
+  tagline: Assets, optimized.
+  description: An AI-powered asset compression pipeline that reduces file size by up to 80% without visible quality loss. Automatically generates responsive variants.
+  date: '2023-09-05'
+  link: '#'
+  category: Design
+  heroImage: https://picsum.photos/seed/pixel/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/pixel1/800/600
+    - https://picsum.photos/seed/pixel2/800/600
+  attributes:
+    - label: Formats
+      value: WebP, AVIF, JPG, PNG
+    - label: API Access
+      value: Yes
+    - label: Batch Processing
+      value: Unlimited
+
+- id: data-vantage
+  title: DataVantage
+  tagline: Clarity in numbers.
+  description: A privacy-first analytics suite that provides actionable insights into user behavior without compromising individual privacy. Cookie-less and compliant by default.
+  date: '2024-02-10'
+  link: '#'
+  category: Analytics
+  heroImage: https://picsum.photos/seed/data/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/data1/800/600
+    - https://picsum.photos/seed/data2/800/600
+  attributes:
+    - label: Compliance
+      value: GDPR, CCPA
+    - label: Retention
+      value: 365 Days
+    - label: Export
+      value: CSV, JSON, PDF
+
+- id: secure-vault
+  title: SecureVault
+  tagline: Secrets kept safe.
+  description: Enterprise-grade password and secret management for internal teams. Features automated rotation, biometric unlock, and granular access controls.
+  date: '2023-08-12'
+  link: '#'
+  category: Productivity
+  heroImage: https://picsum.photos/seed/vault/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/vault1/800/600
+  attributes:
+    - label: Encryption
+      value: AES-256
+    - label: SSO
+      value: Okta, Google, Azure
+    - label: Audit Log
+      value: Immutable
+
+- id: cloud-sync
+  title: CloudSync
+  tagline: Your files, everywhere.
+  description: A unified file storage layer that abstracts over S3, GCS, and Azure Blob Storage. Provides a single API for all your company's cloud storage needs.
+  date: '2023-12-01'
+  link: '#'
+  category: Developer Tools
+  heroImage: https://picsum.photos/seed/cloud/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/cloud1/800/600
+    - https://picsum.photos/seed/cloud2/800/600
+  attributes:
+    - label: Providers
+      value: AWS, GCP, Azure
+    - label: Caching
+      value: Global CDN
+    - label: SLA
+      value: 99.99%
+
+- id: dev-pulse
+  title: DevPulse
+  tagline: Heartbeat of infrastructure.
+  description: Server monitoring and observability platform tailored for microservices. Visualizes service dependencies and alerts on anomalies before they affect users.
+  date: '2024-03-01'
+  link: '#'
+  category: Developer Tools
+  heroImage: https://picsum.photos/seed/pulse/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/pulse1/800/600
+    - https://picsum.photos/seed/pulse2/800/600
+  attributes:
+    - label: Protocol
+      value: OpenTelemetry
+    - label: Storage
+      value: TimeSeries DB
+    - label: Alerting
+      value: PagerDuty, Slack
+
+- id: team-spirit
+  title: TeamSpirit
+  tagline: Culture builder.
+  description: An HR portal that goes beyond payroll. Facilitates peer recognition, organizes team events, and visualizes organizational structure.
+  date: '2023-10-30'
+  link: '#'
+  category: Productivity
+  heroImage: https://picsum.photos/seed/spirit/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/spirit1/800/600
+    - https://picsum.photos/seed/spirit2/800/600
+  attributes:
+    - label: Users
+      value: 500+
+    - label: Mobile
+      value: Responsive Web
+    - label: Integrations
+      value: Workday, BambooHR
+
+- id: bug-hunter
+  title: BugHunter
+  tagline: Squash them all.
+  description: A lightweight issue tracker that prioritizes speed. Keyboard-first navigation and instant search make triaging bugs faster than ever.
+  date: '2023-07-22'
+  link: '#'
+  category: Developer Tools
+  heroImage: https://picsum.photos/seed/bug/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/bug1/800/600
+  attributes:
+    - label: Search
+      value: < 20ms
+    - label: Shortcuts
+      value: Customizable
+    - label: Sync
+      value: Jira 2-way
+
+- id: api-gateway
+  title: ApiGateway
+  tagline: The front door.
+  description: Centralized API management solution handling rate limiting, authentication, and routing for all internal microservices.
+  date: '2024-01-05'
+  link: '#'
+  category: Developer Tools
+  heroImage: https://picsum.photos/seed/gateway/1200/800
+  galleryImages:
+    - https://picsum.photos/seed/gateway1/800/600
+    - https://picsum.photos/seed/gateway2/800/600
+  attributes:
+    - label: Throughput
+      value: 10k req/s
+    - label: Auth
+      value: JWT, OAuth2
+    - label: Plugins
+      value: Lua, WASM
