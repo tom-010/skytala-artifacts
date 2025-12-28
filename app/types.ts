@@ -8,10 +8,10 @@ export interface Product {
   title: string;
   tagline: string;
   description: string;
-  date: string; // ISO date string YYYY-MM-DD
+  date: string;
   link: string;
   heroImage: string;
   galleryImages: string[];
   attributes: ProductAttribute[];
-  category: 'Productivity' | 'Developer Tools' | 'Design' | 'Analytics';
+  category: "Productivity" | "Developer Tools" | "Design" | "Analytics";
 }
